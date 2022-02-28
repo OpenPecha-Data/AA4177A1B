@@ -1,0 +1,64 @@
+segment_sources:
+  PD9BA9561:
+    type: origin_type
+    relation: translation
+    language: en
+  PB1A97AFB:
+    type: origin_type
+    relation: translation
+    language: de
+  PB1A54BD4:
+    type: origin_type
+    relation: translation
+    language: es
+  PCF4F9997:
+    type: origin_type
+    relation: translation
+    language: fr
+  P39B5079F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  f5907faaf92d4c1881120652c8eceb4d:
+    PD9BA9561: 91274fb89ff649b2a45ce5d0f4d4f270
+    PB1A97AFB: 65ff093924934605b4f025f1ab191906
+    PB1A54BD4: 1f76ab36f9494e7c8ca287a600741c57
+    PCF4F9997: f579d3f4c6574faeaa6cbf72b5000b79
+    P39B5079F: 0dbd9fd64138458b99ef14f4ffeb3190
+  0d2a03092c5247528fa94c3e022b6b4b:
+    PD9BA9561: 334c5c311e5d44a896a58dda9d483b81
+    PB1A97AFB: 6b7bc47559b243099dfe14d82f3aa036
+    PB1A54BD4: bba71babc6ba46fa9851f4053c925a8d
+    PCF4F9997: 3c6f2eda070d4831a0b7742255049db6
+    P39B5079F: efbabf91ef394750b505910fcfe492f7
+  77978ba1b72644a6aa745a97230d9c2d:
+    PD9BA9561: dc463af1406e44ec8db2d20e42abbca4
+    PB1A97AFB: a321a672cb0a4ff79170adacaa01213f
+    PB1A54BD4: ba47f9233d494a228aa7e3937d3ec710
+    PCF4F9997: 152d4853e8fd4f5abddc9432a06082f1
+    P39B5079F: 38f76683783b4c73aca6d59ae3558cc6
+  d1d270af4cb7429fadd3dd982700f978:
+    PD9BA9561: e25c1142c8c442328df59a10f683b657
+    PB1A97AFB: 27c98bb684144a0d9d792e5d0b4c1e9c
+    PB1A54BD4: 74c44ddbcc7b448aadeb4c8df056ed7d
+    PCF4F9997: ede790113b36416c8a542b3f54c16474
+    P39B5079F: e8a6ad3e20724c0a8c9e6536d90c78ff
+  85f78dba914c4f3aa81e5b28bfce4b61:
+    PD9BA9561: c121f71368be4c90869b05df9de661be
+    PB1A97AFB: a8dd1124443a4d3aaa2994d5d056df43
+    PB1A54BD4: 8e5461a44878420aad72d1736e3287a5
+    PCF4F9997: 50b676c612dc4acbbf9b69f6e0495a20
+    P39B5079F: 6a80b8f3d0cb42b280028e742678217b
+  7ac8e6b6cc1948f0bc00a5d2ac0161d6:
+    PD9BA9561: bfa5a9ed1a174c86ad9e604e5bff0697
+    PB1A97AFB: 8ad9f3fc7e6c46f69472a14f5a028f94
+    PB1A54BD4: 50698108a7b941a5af1dd0993cc4a3c3
+    PCF4F9997: 447c89bd2b224e9cb44584587be21420
+    P39B5079F: 87e512277a5a462d8b7acab97958ac2b
+  c06f0f9f6ac14e26b9f52f104339230b:
+    PD9BA9561: 774878932d8c46a0a10470bc23095dda
+    PB1A97AFB: 6c3dc8e33ba24c2093d639be76fbc3de
+    PB1A54BD4: d1ffc6e944d5417aa6029e6ebcd64a8f
+    PCF4F9997: ddbaf83bd1654eedbf1fe22951645ceb
+    P39B5079F: 8ba336fb40d8477fb58fa447f8a22349

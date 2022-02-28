@@ -1,0 +1,28 @@
+segment_sources:
+  PD9BA9561:
+    type: origin_type
+    relation: translation
+    language: en
+  PB1A97AFB:
+    type: origin_type
+    relation: translation
+    language: de
+  PCF4F9997:
+    type: origin_type
+    relation: translation
+    language: fr
+  P39B5079F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2b45b71dae604b7ca5d8af282db7c00f:
+    PD9BA9561: b1c30d939fa94027b9cce7b0cf136871
+    PB1A97AFB: 342b9e157e1d4e4e8f2cd46b3eb69c35
+    PCF4F9997: 76921f624a2f4cff8b9297c4e79cb5de
+    P39B5079F: a025965c9c0e46de9a0bdeb1537a8aab
+  a822b3c4102e47d7a42e0e68d4e36610:
+    PD9BA9561: f7abbaefa0844614b46c142a3ea63ff8
+    PB1A97AFB: 14bba46bda2c40a286d0ce4571d8594c
+    PCF4F9997: 7454f4f12b824d52a97e789d05ad73a1
+    P39B5079F: 6041d97591214513826a4029abde834e

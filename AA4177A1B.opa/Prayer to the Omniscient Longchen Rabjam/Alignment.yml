@@ -1,0 +1,16 @@
+segment_sources:
+  PD9BA9561:
+    type: origin_type
+    relation: translation
+    language: en
+  P39B5079F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  251048318fb248fd859f772bba149c8e:
+    PD9BA9561: c66d112d454e476f8498f2e3d930a216
+    P39B5079F: fa36c875a5854395bc6dee112571dd63
+  33a27ec03c1c448b920f8024466befab:
+    PD9BA9561: 518ed111ea814873a496e7317032f2c8
+    P39B5079F: 29b5bbfc971c458e9dedd25eb70b7a80
